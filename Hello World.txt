@@ -1,3 +1,4 @@
 Hello World :) 
 This is a second message :)
 And this is a third message :)
+New message for the git GUI :)
